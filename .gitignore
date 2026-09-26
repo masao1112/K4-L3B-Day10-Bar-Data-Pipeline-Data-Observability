@@ -1,0 +1,8 @@
+solution/
+.env
+lab.txt
+.venv/
+src/*.egg-info/
+lab/
+**/__pycache__/
+doc_verification_report.md
